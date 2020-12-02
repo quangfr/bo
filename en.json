@@ -1,0 +1,55 @@
+{
+    "discounts": {
+        "all-companies": "All companies",
+        "application-date": "Application date",
+        "name": "Name",
+        "product-categories": "Product categories",
+        "discount": "Discount",
+        "customers-groups": "Customers groups",
+        "status": "Status",
+        "company": "Company",
+        "route": {
+            "discounts-product": "Products discounts",
+            "discounts-basket": "Baskets discounts",
+            "discounts-marketplace": "Marketplaces discounts"
+        },
+        "create-product-discount-title": "New product discount",
+        "products-discounts-title": "Products discounts",
+        "create": {
+            "name": "Name *",
+            "status-enabled": "Enabled" ,
+            "status-disabled": "Disabled",
+            "start-date-label": "Start date",
+            "start-time-label": "Start time",
+            "end-date-label": "End date",
+            "end-time-label": "End time",
+            "end-date-hint": "Without date, promotion does not expire",
+            "bonus": {
+                "title": "Reduction to apply",
+                "max-amount": "Maximum amount",
+                "fix-amount": "Fixed amount",
+                "percentage": "Percentage",
+                "type": {
+                    "product": "On the product price",
+                    "basket": "On the basket",
+                    "marketplace": "On the whole site"
+                }
+            }
+        }
+    },
+    "common": {
+        "button": {
+            "create": "Create",
+            "save": "Save",
+            "save-and-close": "Save and close",
+            "ok": "OK",
+            "cancel": "Cancel",
+            "search": "Search",
+            "reset": "Reset",
+            "enabled": "Enabled",
+            "disabled": "Disabled",
+            "duplicate": "Duplicate",
+            "delete": "Delete"
+        }
+    }
+}

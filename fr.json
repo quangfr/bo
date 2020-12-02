@@ -1,0 +1,55 @@
+{
+    "discounts": {
+        "all-companies": "Tous les marchands",
+        "application-date": "Date d'application",
+        "name": "Nom",
+        "product-categories": "Catǵories de produits",
+        "discount": "Remise",
+        "customers-groups": "Groupes de clients",
+        "status": "Statut",
+        "company": "Marchand",
+        "route": {
+            "discounts-product": "Promotions produits",
+            "discounts-basket": "Promotions paniers",
+            "discounts-marketplace": "Promotions marketplaces"
+        },
+        "create-product-discount-title": "Nouvelle promotion produit",
+        "products-discounts-title": "Promotions produits",
+        "create": {
+            "name": "Nom *",
+            "status-enabled": "Activée" ,
+            "status-disabled": "Désactivée",
+            "start-date-label": "Date de début",
+            "start-time-label": "Heure de début",
+            "end-date-label": "Date de fin",
+            "end-time-label": "Heure de fin",
+            "end-date-hint": "Sans date, la promotion n'expire pas",
+            "bonus": {
+                "title": "Réduction à appliquer",
+                "max-amount": "Montant maximum",
+                "fix-amount": "Montant fixe",
+                "percentage": "Pourcentage",
+                "type": {
+                    "product": "Sur le prix du produit",
+                    "basket": "Sur le panier",
+                    "marketplace": "Sur l'ensemble du site"
+                }
+            }
+        }
+    },
+    "common": {
+        "button": {
+            "create": "Créer",
+            "save": "Sauvegarder",
+            "save-and-close": "Sauvegarder et fermer",
+            "ok": "OK",
+            "cancel": "Annuler",
+            "search": "Rechercher",
+            "reset": "Réinitialiser",
+            "enabled": "Activé",
+            "disabled": "Désactivé",
+            "duplicate": "Dupliquer",
+            "delete": "Supprimer"
+        }
+    }
+}
